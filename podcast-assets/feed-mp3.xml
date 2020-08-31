@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:psc="http://podlove.org/simple-chapters"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:fh="http://purl.org/syndication/history/1.0"
+>
+<channel>
+
+<title>The INFS2822 Podcast</title>
+<link>https://blairw.github.io/infs2822podcast</link>
+<description>The podcast for INFS2822</description>
+<lastBuildDate>Mon, 31 Aug 2020 17:24:00 +0000</lastBuildDate>
+
+<image>
+	<url>https://blairw.github.io/infs2822podcast/podcast-assets/INFS2822podcast.png</url>
+	<title>The INFS2822 Podcast</title>
+	<link>https://blairw.github.io/infs2822podcast</link>
+</image>
+
+<atom:link rel="self" type="application/rss+xml" title="The INFS2822 Podcast (MP3 Feed)" href="https://blairw.github.io/infs2822podcast/podcast-assets/feed-mp3.xml" />
+	<atom:link rel="first" href="https://blairw.github.io/infs2822podcast/podcast-assets/feed-mp3.xml" />
+	<language>en-AU</language>
+	<itunes:author>Blair Wang, UNSW Business School</itunes:author>
+	<itunes:type>episodic</itunes:type>
+	<itunes:summary></itunes:summary>
+<itunes:category text="Technology" />
+
+<itunes:owner>
+	<itunes:name>Blair Wang</itunes:name>
+	<itunes:email>blair.wang@unsw.edu.au</itunes:email>
+</itunes:owner>
+<itunes:image href="https://blairw.github.io/infs2822podcast/podcast-assets/feed-mp3.xml" />
+<itunes:subtitle>The official podcast for INFS2822: Programming for Data Analytics</itunes:subtitle>
+<itunes:block>no</itunes:block>
+<itunes:explicit>no</itunes:explicit>
+
+<item>
+<title>Week 0 - Introduction to the INFS2822 Podcast</title>
+<link>https://blairw.github.io/infs2822podcast/episode/0</link>
+<pubDate>Mon, 31 Aug 2020 23:10:01 +0000</pubDate>
+<guid isPermaLink="false">podlove-2020-08-28t14:04:04+00:00-5cb6c75a5c178d7</guid>
+<description>
+<![CDATA[
+In this episode, we introduce the INFS2822 podcast and provide some tips about how you can get ahead before Term starts.
+]]>
+</description>
+<atom:link href="https://blairw.github.io/infs2822podcast/episode/0" />
+<enclosure url="https://blairw.github.io/infs2822podcast/podcast-assets/ep00000-rev01.mp3" length="18124282" type="audio/mpeg"/>
+<itunes:duration>00:09:15</itunes:duration>
+<itunes:author>Blair Wang</itunes:author>
+<itunes:subtitle>In this episode, we introduce the INFS2822 podcast and provide some tips about how you can get ahead before Term starts.</itunes:subtitle>
+<itunes:title>Week 0 - Introduction to the INFS2822 Podcast</itunes:title>
+<itunes:episode>0</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:summary>
+In this episode, we introduce the INFS2822 podcast and provide some tips about how you can get ahead before Term starts.
+</itunes:summary>
+<content:encoded>
+<![CDATA[
+In this episode, we introduce the INFS2822 podcast and provide some tips about how you can get ahead before Term starts.
+]]>
+</content:encoded>	
+</item>
+
+</channel>
+</rss>
