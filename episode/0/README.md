@@ -24,3 +24,8 @@ _In this episode, we introduce the INFS2822 podcast and provide some tips about 
 - **GitHub for students** - sign up at the [GitHub education page](https://education.github.com/students) if you haven't done so already.
 
 Good luck with INFS2822! 😎
+
+&nbsp;  
+&mdash;
+
+&larr; _[back to INFS2822 Podcast homepage](https://blairw.github.io/infs2822podcast/)_
