@@ -11,7 +11,7 @@
 
 <title>The INFS2822 Podcast</title>
 <link>https://blairw.github.io/infs2822podcast</link>
-<description>The official podcast for INFS2822: Programming for Data Analytics</description>
+<description>The official podcast for the UNSW course INFS2822: Programming for Data Analytics</description>
 <lastBuildDate>Mon, 31 Aug 2020 17:24:00 +0000</lastBuildDate>
 
 <image>
@@ -33,7 +33,7 @@
 	<itunes:email>blair.wang@unsw.edu.au</itunes:email>
 </itunes:owner>
 <itunes:image href="https://infs2822podcast.b-cdn.net/podcast-assets/infs2822podcast-albumart-rev01.png" />
-<itunes:subtitle>The official podcast for INFS2822: Programming for Data Analytics</itunes:subtitle>
+<itunes:subtitle>The official podcast for the UNSW course INFS2822: Programming for Data Analytics</itunes:subtitle>
 <itunes:block>no</itunes:block>
 <itunes:explicit>no</itunes:explicit>
 
