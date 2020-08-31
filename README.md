@@ -9,6 +9,7 @@ Welcome to the INFS2822 Podcast! **This is the official podcast for the UNSW cou
 
 - Apple Podcasts - under review with Apple
 - Google Podcasts - under review with Google
+- [Pocket Casts](https://pca.st/1clduqrv)
 - [Spotify](https://open.spotify.com/show/1jP755mIuk33fiRy5wvaif?si=fB-cc0wYSBmWVewhxxhBiQ)
 
 ### 🗓&nbsp;&nbsp;Episodes
