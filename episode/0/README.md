@@ -1,10 +1,6 @@
 # Week 0 - Introduction to the INFS2822 Podcast
 
-## Overview
-
-In this episode, we introduce the INFS2822 podcast and provide some tips about how you can get ahead before Term starts.
-
-## Show Notes
+_In this episode, we introduce the INFS2822 podcast and provide some tips about how you can get ahead before Term starts._
 
 ### Course overview
 
@@ -20,9 +16,11 @@ In this episode, we introduce the INFS2822 podcast and provide some tips about h
 
 ### How to get ahead?
 
-- **Moodle** - you should already have access to the [INFS2822 Moodle site](https://moodle.telt.unsw.edu.au/course/view.php?id=54624).
-    - check out the field manual and especially the System Requirements
-    - to try out the installation, head over to [shellstarterkit](https://github.com/blairw/shellstarterkit)
-- **Ed** - at [www.edstem.org](www.edstem.org) - sign-up link on the INFS2822 Moodle homepage.
+- **Moodle** - you should already have access to the [INFS2822 Moodle](https://moodle.telt.unsw.edu.au/course/view.php?id=54624).
+    - Check out the Field Manual (especially the System Requirements section).
+    - To try out the installation, head over to [shellstarterkit](https://github.com/blairw/shellstarterkit).
+- **Edstem.org** - sign-up link on the INFS2822 Moodle homepage.
 - **Microsoft Teams** - you will be added by zID.
 - **GitHub for students** - sign up at the [GitHub education page](https://education.github.com/students) if you haven't done so already.
+
+Good luck with INFS2822! 😎
