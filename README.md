@@ -5,12 +5,12 @@ Welcome to the INFS2822 Podcast! **This is the official podcast for the UNSW cou
 - If you are a student currently taking INFS2822, you should definitely subscribe using one of the podcast platforms listed below!
 - If you are not currently a student taking INFS2822, you're still welcome to listen in, though things might not entirely make sense. You might also consider taking INFS2822 - check out the [INFS2822 entry in the UNSW Handbook](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/INFS2822).
 
-### 🎧&nbsp;Subscribe
+### 🎧&nbsp;&nbsp;Subscribe
 
 - Apple Podcasts - coming soon
 - Google Podcasts - coming soon
 - [Spotify](https://open.spotify.com/show/1jP755mIuk33fiRy5wvaif?si=fB-cc0wYSBmWVewhxxhBiQ)
 
-### 🗓&nbsp;Episodes
+### 🗓&nbsp;&nbsp;Episodes
 
 - [Week 0 - Introduction to the INFS2822 Podcast](episode/0)
