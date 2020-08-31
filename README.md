@@ -10,4 +10,4 @@ Welcome to the INFS2822 Podcast! This is the official podcast for the UNSW cours
 
 ### Episodes
 
-- [Week 0 - Introduction to the INFS2822 Podcast](episodes/0)
+- [Week 0 - Introduction to the INFS2822 Podcast](episode/0)
