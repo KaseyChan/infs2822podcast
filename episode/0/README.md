@@ -2,6 +2,9 @@
 
 _In this episode, we introduce the INFS2822 podcast and provide some tips about how you can get ahead before Term starts._
 
+- [MP3 file](https://blairw.github.io/infs2822podcast/podcast-assets/ep00000-rev02.mp3)
+- [Listen on Spotify](https://open.spotify.com/episode/6K1obACXSwkwz8rPVVTrMh?si=kQXa6fKLQ1mlDW37S5kc2w)
+
 ### Course overview
 
 - **Module 1: Business Data Processing – Commands and Scripts**
