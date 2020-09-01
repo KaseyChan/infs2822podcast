@@ -9,7 +9,7 @@ During the teaching term, we will be uploading a new episode every Friday summar
 
 ### 🎧&nbsp;&nbsp;Subscribe
 
-- Apple Podcasts - under review with Apple
+- [Apple Podcasts](https://podcasts.apple.com/au/podcast/the-infs2822-podcast/id1529847359)
 - Google Podcasts - under review with Google
 - [Pocket Casts](https://pca.st/1clduqrv)
 - [Spotify](https://open.spotify.com/show/1jP755mIuk33fiRy5wvaif?si=fB-cc0wYSBmWVewhxxhBiQ)
