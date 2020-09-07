@@ -2,8 +2,11 @@
 
 _In this episode, we introduce the INFS2822 podcast and provide some tips about how you can get ahead before Term starts._
 
-- [MP3 file](https://blairw.github.io/infs2822podcast/podcast-assets/ep00000-rev02.mp3)
-- [Listen on Spotify](https://open.spotify.com/episode/6K1obACXSwkwz8rPVVTrMh?si=kQXa6fKLQ1mlDW37S5kc2w)
+<audio controls>
+  <source src="../../podcast-assets/ep00000-rev02.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<a href="../../podcast-assets/ep00000-rev02.mp3" download="INFS2822 Podcast - episode 0.mp3">Download MP3 file</a>
 
 ---
 
