@@ -7,6 +7,7 @@ _You made it to the end of Week 1! Let's recap and reflect on how we can help ea
 Your browser does not support the audio element.
 </audio>
 &nbsp;
+
 ---
 
 ### Recap of Week 1
