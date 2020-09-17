@@ -17,3 +17,4 @@ During the teaching term, we will be uploading a new episode every Friday summar
 ### 🗓&nbsp;&nbsp;Episodes
 
 - [Week 0 - Introduction to the INFS2822 Podcast](episode/0)
+- [Week 1 - Let's Help Each Other](episode/1)
