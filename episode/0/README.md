@@ -6,7 +6,6 @@ _In this episode, we introduce the INFS2822 podcast and provide some tips about 
   <source src="../../podcast-assets/ep00000-rev02.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
-<a href="../../podcast-assets/ep00000-rev02.mp3" download="INFS2822 Podcast - episode 0.mp3">Download MP3 file</a>
 
 ---
 

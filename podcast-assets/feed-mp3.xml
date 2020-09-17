@@ -68,5 +68,34 @@ In this episode, we introduce the INFS2822 podcast and provide some tips about h
 </content:encoded>	
 </item>
 
+
+<item>
+<title>Week 1 - Let's Help Each Other</title>
+<link>https://blairw.github.io/infs2822podcast/episode/1</link>
+<pubDate>Fri, 18 Sep 2020 01:01:01 +0000</pubDate>
+<guid isPermaLink="false">93BF1D04-0EC8-4CB0-B844-6F247A77DAEF</guid>
+<description>
+<![CDATA[
+You made it to the end of Week 1! Let's recap and reflect on how we can help each other (#allinthistogether).
+]]>
+</description>
+<atom:link href="https://blairw.github.io/infs2822podcast/episode/0" />
+<enclosure url="https://blairw.github.io/infs2822podcast/podcast-assets/ep00000-rev02.mp3" length="22044385" type="audio/mpeg"/>
+<itunes:duration>00:11:18</itunes:duration>
+<itunes:author>Blair Wang</itunes:author>
+<itunes:subtitle>You made it to the end of Week 1! Let's recap and reflect on how we can help each other (#allinthistogether).</itunes:subtitle>
+<itunes:title>Let's Help Each Other</itunes:title>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:summary>
+You made it to the end of Week 1! Let's recap and reflect on how we can help each other (#allinthistogether).
+</itunes:summary>
+<content:encoded>
+<![CDATA[
+You made it to the end of Week 1! Let's recap and reflect on how we can help each other (#allinthistogether).
+]]>
+</content:encoded>	
+</item>
+
 </channel>
 </rss>
