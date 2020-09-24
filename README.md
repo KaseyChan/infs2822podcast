@@ -18,3 +18,4 @@ During the teaching term, we will be uploading a new episode every Friday summar
 
 - [Week 0 - Introduction to the INFS2822 Podcast](episode/0)
 - [Week 1 - Let's Help Each Other](episode/1)
+- [Week 2 - Adapt, Improvise, Overcome](episode/2)

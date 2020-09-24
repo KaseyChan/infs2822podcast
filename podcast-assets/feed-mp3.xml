@@ -40,6 +40,36 @@
 <itunes:block>no</itunes:block>
 <itunes:explicit>no</itunes:explicit>
 
+<item>
+<title>Week 2 - Adapt, Improvise, Overcome</title>
+<link>https://blairw.github.io/infs2822podcast/episode/2</link>
+<pubDate>Fri, 25 Sep 2020 09:35:01 +0000</pubDate>
+<guid isPermaLink="false">82370D6F-5A7D-4174-892E-15A051B32403</guid>
+<description>
+<![CDATA[
+This week, we deep-dived into the Python language. Much of what we learnt could be summarised with that old saying/meme: Adapt, Improvise, Overcome.
+]]>
+</description>
+<atom:link href="https://blairw.github.io/infs2822podcast/episode/2" />
+<enclosure url="https://blairw.github.io/infs2822podcast/podcast-assets/ep00002-rev01.mp3" length="23217760" type="audio/mpeg"/>
+<itunes:duration>00:11:55</itunes:duration>
+<itunes:author>Blair Wang</itunes:author>
+<itunes:subtitle>
+	This week, we deep-dived into the Python language. Much of what we learnt could be summarised with that old saying/meme: Adapt, Improvise, Overcome.
+</itunes:subtitle>
+<itunes:title>Adapt, Improvise, Overcome</itunes:title>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:summary>
+	This week, we deep-dived into the Python language. Much of what we learnt could be summarised with that old saying/meme: Adapt, Improvise, Overcome.
+</itunes:summary>
+<content:encoded>
+<![CDATA[
+This week, we deep-dived into the Python language. Much of what we learnt could be summarised with that old saying/meme: Adapt, Improvise, Overcome.
+]]>
+</content:encoded>	
+</item>
+
 
 <item>
 <title>Week 1 - Let's Help Each Other</title>
@@ -51,7 +81,7 @@
 You made it to the end of Week 1! Let's recap and reflect on how we can help each other (#allinthistogether).
 ]]>
 </description>
-<atom:link href="https://blairw.github.io/infs2822podcast/episode/0" />
+<atom:link href="https://blairw.github.io/infs2822podcast/episode/1" />
 <enclosure url="https://blairw.github.io/infs2822podcast/podcast-assets/ep00001-rev01.mp3" length="22044385" type="audio/mpeg"/>
 <itunes:duration>00:11:18</itunes:duration>
 <itunes:author>Blair Wang</itunes:author>
