@@ -12,17 +12,17 @@ Your browser does not support the audio element.
 
 ### Recap of Week 2
 
-Adapt
+Adapt:
 - `pandas` and `pandasql` built on top of `numpy`
 - `seaborn` built on top of `matplotlib`
 - We are all standing on the shoulders of giants!
 
-Improvise
+Improvise:
 - Data analytics in Python is a little bit more ad-hoc than building apps/programs
 - The language and libraries are a bit more ad-hoc: loose tying, lightweight libraries
 - Writing code for data cleansing when you encounter issues
 
-Overcome
+Overcome:
 - Overcoming common mistakes: forgetting the `venv`, using semicolons, stuffing up the indentation...
 - Matthew and I deliberately do live code demos so you can see us making - and overcoming - human mistakes :)
 - Writing Python for data analytics is almost like overcoming shortcomings in packaged software
