@@ -13,7 +13,7 @@
 <description>
 	The official podcast for the UNSW course INFS2822: Programming for Data Analytics. New episodes every Friday during the teaching term.
 </description>
-<lastBuildDate>Fri, 18 Sep 2020 01:01:01 +0000</lastBuildDate>
+<lastBuildDate>Fri, 2 Oct 2020 01:35:01 +0000</lastBuildDate>
 
 <image>
 	<url>https://blairw.github.io/infs2822podcast/podcast-assets/infs2822podcast-albumart-rev01.png</url>
@@ -39,6 +39,36 @@
 </itunes:subtitle>
 <itunes:block>no</itunes:block>
 <itunes:explicit>no</itunes:explicit>
+
+<item>
+<title>Week 3 - The End of Module 1</title>
+<link>https://blairw.github.io/infs2822podcast/episode/3</link>
+<pubDate>Fri, 2 Oct 2020 01:35:01 +0000</pubDate>
+<guid isPermaLink="false">08422379-92AD-4428-BE05-EFE49A4159C7</guid>
+<description>
+<![CDATA[
+This week, we finished off Module 1 with some technical concepts, but more importantly, a look at the big picture: communication, diversity, and what it means to program "for" data analytics.
+]]>
+</description>
+<atom:link href="https://blairw.github.io/infs2822podcast/episode/3" />
+<enclosure url="https://blairw.github.io/infs2822podcast/podcast-assets/ep00003-rev01.mp3" length="23634161" type="audio/mpeg"/>
+<itunes:duration>00:12:04</itunes:duration>
+<itunes:author>Blair Wang</itunes:author>
+<itunes:subtitle>
+	This week, we finished off Module 1 with some technical concepts, but more importantly, a look at the big picture: communication, diversity, and what it means to program "for" data analytics.
+</itunes:subtitle>
+<itunes:title>The End of Module 1</itunes:title>
+<itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:summary>
+	This week, we finished off Module 1 with some technical concepts, but more importantly, a look at the big picture: communication, diversity, and what it means to program "for" data analytics.
+</itunes:summary>
+<content:encoded>
+<![CDATA[
+This week, we finished off Module 1 with some technical concepts, but more importantly, a look at the big picture: communication, diversity, and what it means to program "for" data analytics.
+]]>
+</content:encoded>	
+</item>
 
 <item>
 <title>Week 2 - Adapt, Improvise, Overcome</title>
