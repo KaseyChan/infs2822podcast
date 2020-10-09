@@ -20,3 +20,4 @@ During the teaching term, we will be uploading a new episode every Friday summar
 - [Week 1 - Let's Help Each Other](episode/1)
 - [Week 2 - Adapt, Improvise, Overcome](episode/2)
 - [Week 3 - The End of Module 1](episode/3)
+- [Week 4 - Laying Down Firm Foundations](episode/4)
