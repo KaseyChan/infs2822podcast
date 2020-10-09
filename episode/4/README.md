@@ -26,9 +26,9 @@ Laying down firm foundations in the Midterm:
 - Format is directly relevant for the Final Exam
 
 
-### What to do before Week 4
+### What to do before Week 5
 
-- **Week 5 "reading"** (see Field Manual - only 12 minutes of YouTube videos!)
+- Week 5 "reading" (see Field Manual - only 12 minutes of YouTube videos!)
 - Tutorial Work: JavaScript exercise (probably shouldn't take more than an hour)
 - Midterm Task: 5 minutes of footage (probably will take an hour or two)
 - Don't forget to respond to the Module 1 exit survey!
