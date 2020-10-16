@@ -24,8 +24,9 @@ Your browser does not support the audio element.
 - Revising on course content so far
 - Start thinking about your Group Assignment
 - Module 1 Exit Survey is still open!
+- Come back in Week 7 feeling refreshed and ready to learn more 🤔
 
-Keep up the great work 😎
+See you soon 😎
 
 &mdash; Blair.
 
