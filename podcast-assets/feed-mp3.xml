@@ -41,6 +41,36 @@
 <itunes:explicit>no</itunes:explicit>
 
 <item>
+<title>Week 5 - Interdisciplinary Mapping</title>
+<link>https://blairw.github.io/infs2822podcast/episode/5</link>
+<pubDate>Fri, 16 Oct 2020 12:39:01 +0000</pubDate>
+<guid isPermaLink="false">E60AAD3E-88F9-4E4E-812E-E19EE83C391A</guid>
+<description>
+<![CDATA[
+This week we discovered how geovisualisations like choropleth maps are made, and you folks also submitted your first assignment for the course!
+]]>
+</description>
+<atom:link href="https://blairw.github.io/infs2822podcast/episode/5" />
+<enclosure url="https://blairw.github.io/infs2822podcast/podcast-assets/ep00005-rev01.mp3" length="23155844" type="audio/mpeg"/>
+<itunes:duration>00:11:51</itunes:duration>
+<itunes:author>Blair Wang</itunes:author>
+<itunes:subtitle>
+	This week we discovered how geovisualisations like choropleth maps are made, and you folks also submitted your first assignment for the course!
+</itunes:subtitle>
+<itunes:title>Interdisciplinary Mapping</itunes:title>
+<itunes:episode>5</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:summary>
+	This week we discovered how geovisualisations like choropleth maps are made, and you folks also submitted your first assignment for the course!
+</itunes:summary>
+<content:encoded>
+<![CDATA[
+This week we discovered how geovisualisations like choropleth maps are made, and you folks also submitted your first assignment for the course!
+]]>
+</content:encoded>	
+</item>
+
+<item>
 <title>Week 4 - Laying Down Firm Foundations</title>
 <link>https://blairw.github.io/infs2822podcast/episode/4</link>
 <pubDate>Fri, 9 Oct 2020 08:35:01 +0000</pubDate>
@@ -50,7 +80,7 @@
 This week involved kicking off Module 2 by deep-diving into JavaScript; adjusting the course according to the Module 1 exit survey; and preparing for the midterm. These are all about laying down firm foundations for weeks ahead.
 ]]>
 </description>
-<atom:link href="https://blairw.github.io/infs2822podcast/episode/3" />
+<atom:link href="https://blairw.github.io/infs2822podcast/episode/4" />
 <enclosure url="https://blairw.github.io/infs2822podcast/podcast-assets/ep00004-rev01.mp3" length="19985709" type="audio/mpeg"/>
 <itunes:duration>00:10:13</itunes:duration>
 <itunes:author>Blair Wang</itunes:author>
