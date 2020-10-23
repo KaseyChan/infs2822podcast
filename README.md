@@ -22,3 +22,4 @@ During the teaching term, we will be uploading a new episode every Friday summar
 - [Week 3 - The End of Module 1](episode/3)
 - [Week 4 - Laying Down Firm Foundations](episode/4)
 - [Week 5 - Interdisciplinary Mapping](episode/5)
+- [Week 6 - Summary of the Course So Far](episode/6)
