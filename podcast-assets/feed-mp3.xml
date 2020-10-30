@@ -41,6 +41,36 @@
 <itunes:explicit>no</itunes:explicit>
 
 <item>
+<title>Week 7 - The End of Module 2</title>
+<link>https://blairw.github.io/infs2822podcast/episode/7</link>
+<pubDate>Fri, 30 Oct 2020 12:10:01 +0000</pubDate>
+<guid isPermaLink="false">04533C5C-5CA1-465B-81AF-C9EE8FA81A90</guid>
+<description>
+<![CDATA[
+Web scraping, web scraping ethics, and looking forwards towards Machine Learning and wrapping up the Group Assignment.
+]]>
+</description>
+<atom:link href="https://blairw.github.io/infs2822podcast/episode/7" />
+<enclosure url="https://blairw.github.io/infs2822podcast/podcast-assets/ep00007-rev01.mp3" length="16689699" type="audio/mpeg"/>
+<itunes:duration>00:08:32</itunes:duration>
+<itunes:author>Blair Wang</itunes:author>
+<itunes:subtitle>
+	Web scraping, web scraping ethics, and looking forwards towards Machine Learning and wrapping up the Group Assignment.
+</itunes:subtitle>
+<itunes:title>The End of Module 2</itunes:title>
+<itunes:episode>7</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:summary>
+	Web scraping, web scraping ethics, and looking forwards towards Machine Learning and wrapping up the Group Assignment.
+</itunes:summary>
+<content:encoded>
+<![CDATA[
+Web scraping, web scraping ethics, and looking forwards towards Machine Learning and wrapping up the Group Assignment.
+]]>
+</content:encoded>	
+</item>
+
+<item>
 <title>Week 6 - Summary of the Course So Far</title>
 <link>https://blairw.github.io/infs2822podcast/episode/6</link>
 <pubDate>Fri, 23 Oct 2020 10:23:01 +0000</pubDate>
