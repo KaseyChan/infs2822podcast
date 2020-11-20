@@ -25,4 +25,5 @@ During the teaching term, we will be uploading a new episode every Friday summar
 - [Week 6 - Summary of the Course So Far](episode/6)
 - [Week 7 - The End of Module 2](episode/7)
 - [Week 8 - Machine Learning](episode/8)
-- [Week 9 - Ethics, Towards Wrap-Up](episode/9)
+- [Week 9 - Five Ideas About Ethics](episode/9)
+- [Week 10 - Goodbye and Good Luck!](episode/10)
